@@ -7,7 +7,3 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anys34)](https://solved.ac/anys34/)
-</div>
