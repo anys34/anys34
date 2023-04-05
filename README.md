@@ -8,3 +8,11 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+<div align=center><h1>🧑‍💻 ME</h1></div>
+
+<div align="center"> 
+  
+  ![anys's github stats](https://github-readme-stats.vercel.app/api?username=anys34&show_icons=true)
+  
+</div>
