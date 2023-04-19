@@ -13,6 +13,12 @@
 
 <div align="center"> 
   
-  ![anys's github stats](https://github-readme-stats.vercel.app/api?username=anys34&show_icons=true)
+  <div style="float:left">
+    ![anys's github stats](https://github-readme-stats.vercel.app/api?username=anys34&show_icons=true)
+  </div>
+  
+  <div style="float:left">
+    <a href="https://github.com/anys34"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anys34&layout=compact"/></a>
+  </div>
   
 </div>
