@@ -14,7 +14,7 @@ jobs:
       - uses: anys34/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.anys34 }}
       - name: Commit & Push
         run: |
           git config user.name anys34
