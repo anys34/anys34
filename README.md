@@ -30,7 +30,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=anys34&theme=dark&hide_border=true&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
-
-<br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
