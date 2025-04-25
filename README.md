@@ -48,8 +48,8 @@
   </tr>
   <tr>
     <td width="40%" valign="top">
-      <a href="https://github.com/Team-Moiza/MOIZA_SERVER">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Moiza&repo=MOIZA_SERVER" />
+      <a href="https://github.com/anys34/MOIZA_SERVER">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anys34&repo=MOIZA_SERVER" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -87,7 +87,3 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-<h3>📊 My GitHub Stats</h3>
-
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anys34)](https://github.com/anys34/github-readme-stats)
